@@ -1,6 +1,6 @@
 # Weather_forecast
 
-The Project is done in 3 parts and complexity and performance of model increases from starting to the end.
+The Project is done in 3 parts. The Complexity & performance of the model increases from starting to the end.
 </br>
 </br>
 1. In w_one folder, Applied Linear Regression with OLS for temperature prediction (Dataset is already present inside folder).
